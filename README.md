@@ -11,7 +11,7 @@ Attualmente realizzo progetti open source in Java e .NET, con particolare attenz
 Mi piace creare applicazioni che risolvano problemi concreti. Vengo da un background tecnico-sistemistico che oggi applico allo sviluppo backend.  
 Sono meticoloso, determinato, e sempre curioso di imparare nuove tecnologie e architetture. 
 
-Nel tempo libero approfondisco concetti legati al game design e all’AI, oppure contribuisco a migliorare progetti personali e universitari.
+Nel tempo libero approfondisco concetti legati alla programmazione e migliorare progetti personali.
 
 ---
 
