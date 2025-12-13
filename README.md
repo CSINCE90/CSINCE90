@@ -8,17 +8,16 @@ Attualmente realizzo progetti open source in Java e .NET, con particolare attenz
 
 ## 🧠 Chi sono
 
-Mi piace creare applicazioni che risolvano problemi concreti. Vengo da un background tecnico-sistemistico che oggi applico allo sviluppo backend.  
-Sono meticoloso, determinato, e sempre curioso di imparare nuove tecnologie e architetture. 
+Dottore in Scienze Informatiche L-31, sono una persona dinamica orientata al raggiungimento degli obiettivi personali e professionali. Sono specializzato nello sviuppo software lato server-side ma sono aperto alla conoscenza e all'apprendimento continuo. 
 
-Nel tempo libero approfondisco concetti legati alla programmazione e migliorare progetti personali.
+Nel tempo libero approfondisco i concetti chiave della programmazione moderna frequentando corsi e academy a scopo di tenere "fresche" le mie skills e apprenderne di nuove. 
 
 ---
 
 ## 🧩 Competenze principali
 
-- **Linguaggi:** Java, C#, JavaScript
-- **Framework:** Spring Boot, .NET, Razor Pages
+- **Linguaggi:** Java, C#
+- **Framework:** Spring Boot, .NET
 - **Autenticazione:** JWT, Keycloak
 - **Database:** MySQL, SQL Server
 - **Tools:** Docker, Git, GitHub, Postman
@@ -42,4 +41,4 @@ Nel tempo libero approfondisco concetti legati alla programmazione e migliorare 
 
 ---
 
-> "Scrivere buon codice è il mio modo di portare ordine nel caos."
+> "Ad Maiora Semper.... un commit alla volta xD"
